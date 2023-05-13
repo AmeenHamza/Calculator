@@ -1,0 +1,12 @@
+.table-center {
+}
+
+table tr td button {
+    width: 100%;
+}
+
+#result {
+    padding: 20px;
+    border: 5px solid #1876f2;
+    border-radius: 10px;
+}
